@@ -10,10 +10,10 @@ const App = () => {
     <div>
         {/* Do not remove the main div */}
         <PageLayout 
-        header={<header>Welcome to my website</header>}
+        header={<h1>Welcome to my website</h1>}
         footer={<footer>&copy; 2023 My Website.All rights reserved.</footer>}
         >
-          <h1>This is the content of my website</h1>
+          <p>This is the content of my website</p>
 
         </PageLayout>
         
