@@ -13,10 +13,11 @@ const App = () => {
         header={<h1>Welcome to my website</h1>}
         footer={<footer>© 2023 My Website. All rights reserved.</footer>}
         >
-          <p>This is the content of my website</p>
+          <p>This is the content of my website.</p>
 
         </PageLayout>
         
+
     
     </div>
   )
